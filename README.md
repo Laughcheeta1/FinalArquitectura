@@ -4,6 +4,10 @@
 1. Sebastian Ruiz Londoño
 2. Santiago Yepes Mesa
 
+# Hardware
+
+Utilizamos una FRDM-KL25Z
+
 # Descripcion del codigo
 ```
 AnalogIn lightDetector(A1);
