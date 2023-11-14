@@ -7,6 +7,8 @@
 # Hardware
 
 Utilizamos una FRDM-KL25Z
+Utilizamos protoboard
+y construimos una maqueta de solo una fotopuerta para la medicion de la aceleracion por media de una cinta
 
 # Descripcion del codigo
 ```
